@@ -1,13 +1,4 @@
-# Repositoria que será utilizado para gerar os arquivos.
-- uses: Platane/snk@master
-  id: snake-gif
-  with:
-    github_richxrdreis: richxrdreis
-    gif_out_path: dist/github-contribution-grid-snake.gif
-    svg_out_path: dist/github-contribution-grid-snake.svg
 
-
-# Nome da Actions:  
 name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
