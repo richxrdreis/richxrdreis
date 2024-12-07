@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- My name is Richard, from RJ - Brazil 🇧🇷 <br>- Front-end Developer 👨‍💻<br>- Software Engineer (graduating) 🎓</p>
+<p align="left">- My name is Richard, from RJ - Brazil 🇧🇷 <br>- Software Engineer (graduating) 🎓</p>
 
 ###
 
