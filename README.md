@@ -17,8 +17,6 @@
   <img width="12" />
 </div>
 
-###
-
 <h2 align="left"></h2>
 
 ###
