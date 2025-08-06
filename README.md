@@ -2,8 +2,6 @@
 
 <p align="left">- Meu nome é Richard, RJ - Brasil<br>- Graduando em Engenharia de Software🎓</p>
 
-###
-
 <h2 align="left">Tecnologias<h2>
 
 ###
