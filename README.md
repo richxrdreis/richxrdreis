@@ -1,16 +1,16 @@
-<h2 align="left">👋 Hi there, welcome to my github profile.</h2>
+<h2 align="left">👋 E aí, tudo certo?</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">- My name is Richard, from RJ - Brazil 🇧🇷 <br>- Software Engineer (graduating) 🎓</p>
+<p align="left">- Meu nome é Richard, RJ - Brasil<br> Graduando em Engenharia de Software🎓</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias<h2>
 
 ###
 
