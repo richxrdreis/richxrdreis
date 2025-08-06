@@ -4,8 +4,6 @@
 
 <h2 align="left">Tecnologias<h2>
 
-###
-
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="30" alt="java logo" />
   <img width="12" />
