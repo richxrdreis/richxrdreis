@@ -1,6 +1,6 @@
 <h2 align="left">👋 E aí, tudo certo?</h2>
 
-<p align="left">- Meu nome é Richard, RJ - Brasil<br>- Graduando em Engenharia de Software🎓</p>
+<p align="left">- Meu nome é Richard!<br>- Graduando em Engenharia de Software🎓</p>
 
 <h2 align="left">Tecnologias<h2>
 
