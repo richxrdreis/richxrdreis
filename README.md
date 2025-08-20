@@ -6,8 +6,7 @@
 
 <div align="left">
   <!-- Java -->
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="40" alt="Java logo" />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
   
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
